@@ -18,7 +18,7 @@ ain't causin problems
 on god
 we don't give a fuck 
 about a dolla
-<!--sdfsdfsd -->
+<!--edited comment -->
 
 on god,
 i swear I do this shit for the art
