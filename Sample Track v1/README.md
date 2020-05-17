@@ -11,7 +11,7 @@ This is where you'll detail anything specific about this track, such as notes fo
     - [contrib](./Recorded/contrib) is where contributions should go.
   - [Rendered](./Rednered) is where all final renders should go.
 - Recommended
-  - If you have license information, I'd 
+  - If you have license information, I'd put it under `License`. That way for legal reasons you know exactly where they are.
 
 ## Formatting
 
